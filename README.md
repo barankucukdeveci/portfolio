@@ -8,11 +8,11 @@ This is a project I did for my bachelor's degree, where I augmented traffic sign
 
 ![example](https://raw.githubusercontent.com/barankucukdeveci/signdetection/main/images/recognition.png?raw=true)
 
-# [Dashboard Sample Project](https://github.com/barankucukdeveci/data_projects/blob/main/portfolio.pbix)
+# [Survey Dashboard Project](https://github.com/barankucukdeveci/data_projects/blob/main/portfolio.pbix)
 Learning Power BI Project
 <img width="1950" height="1084" alt="image" src="https://github.com/user-attachments/assets/157f5bc0-edc9-498d-b00e-cb144083ab2d" />
 
-# [Excel Coffee Sales Dashboard[(https://github.com/barankucukdeveci/data_projects/blob/main/coffeeOrdersData.xlsx)
+# [Excel Coffee Sales Dashboard](https://github.com/barankucukdeveci/data_projects/blob/main/coffeeOrdersData.xlsx)
 <img width="2491" height="979" alt="image" src="https://github.com/user-attachments/assets/c16de536-76b8-4664-8d59-0904006dbf39" />
 
 # [Lottery Numbers Project](https://github.com/barankucukdeveci/data_projects/blob/main/lotto.pbix)
