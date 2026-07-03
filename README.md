@@ -13,10 +13,11 @@ Learning Power BI Project
 <img width="1950" height="1084" alt="image" src="https://github.com/user-attachments/assets/157f5bc0-edc9-498d-b00e-cb144083ab2d" />
 
 # [Excel Coffee Sales Dashboard](https://github.com/barankucukdeveci/data_projects/blob/main/coffeeOrdersData.xlsx)
+Using XLOOKUP, MATCH, INDEX to populate a pivot table, which is then used for the dashboard with graphs and slicers. 
 <img width="2491" height="979" alt="image" src="https://github.com/user-attachments/assets/c16de536-76b8-4664-8d59-0904006dbf39" />
 
 # [Lottery Numbers Project](https://github.com/barankucukdeveci/data_projects/blob/main/lotto.pbix)
-Learning Power BI Project
+Just a quick project to see the popularity of numbers in recent times.
 <img width="2084" height="996" alt="image" src="https://github.com/user-attachments/assets/9096f07e-17b9-4813-a61c-451d256d3c87" />
 
 
